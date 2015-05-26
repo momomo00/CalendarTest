@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalendarTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="get_calendar_button_text">カレンダー情報取得</string>
+</resources>
